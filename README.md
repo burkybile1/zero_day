@@ -1,1 +1,1 @@
-This repository is understanding how to use git
+This repository is to understand Vagrant.
